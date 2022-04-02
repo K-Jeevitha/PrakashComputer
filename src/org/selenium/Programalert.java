@@ -43,5 +43,7 @@ public static void main(String[] args) throws InterruptedException {
 		Thread.sleep(3000);
 		alert1.accept();
 		
+		System.out.println("new changes");
+		
 		 }
 }
